@@ -1,0 +1,13 @@
+﻿  ball_object.cpp
+  game.cpp
+D:\project\BreakoutGame\BreakoutGame\game.cpp(224,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  game_level.cpp
+D:\project\BreakoutGame\BreakoutGame\game_level.cpp(54,76): warning C4244: “初始化”: 从“unsigned int”转换到“float”，可能丢失数据
+  game_object.cpp
+  particle_generator.cpp
+  post_processor.cpp
+  program.cpp
+D:\project\BreakoutGame\BreakoutGame\program.cpp(65,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  sprite_renderer.cpp
+  正在生成代码...
+  BreakoutGame.vcxproj -> D:\project\BreakoutGame\Debug\BreakoutGame.exe
